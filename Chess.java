@@ -6,6 +6,7 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 //testing sthh
+//t
 public class Chess extends Application {
 
     @Override
